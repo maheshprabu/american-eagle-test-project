@@ -30,7 +30,19 @@ click on config.properties and change it to the respective following
       >Browser: Chrome / Firefox 
       >baseURL: any 
       >Page timeout: upto 100ms 
-      
+
+**Test Case**
+1) Launch  the website ae.com
+2) Click on Shop Men->Shop Tops
+3) Select an item 
+4) Select Size (M), 
+5) click on Button -> Add to Bag
+6) Click on Button ->View Bag 
+7) Click on Button -> Proceed to Checkout 
+8) Enter the details in to shipping info page 
+9) Enter the credit card details and click complete the purchase 
+10) Order no is successfully generated. 
+
 **Verifying Results** 
 
 After the run is complete please refresh the project and the output of the project is present in test-output/emailable-report.html
