@@ -40,7 +40,7 @@ Test	# Passed	# Skipped	# Failed	Time (ms)	Included Groups	Excluded Groups
 Default suite
 Default test	2	0	0	37		
 
-**Challenges
+**Challenges**
 
 Site frequently throws 400 error, retry the execution 
 Page objects changes frequently, 
